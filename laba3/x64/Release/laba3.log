@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\wowul\Desktop\Proga\laba3\laba3\Main.cpp(11,41): warning C4305: аргумент: усечение из "double" в "float"
+  Создание кода
+  1 of 495 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  laba3.vcxproj -> C:\Users\wowul\Desktop\Proga\laba3\x64\Release\laba3.exe
